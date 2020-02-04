@@ -1,0 +1,9 @@
+{
+    "DB": {
+            "drivername":"postgresql+psycopg2",
+            "username":"postgres",
+            "password":"postgres",
+            "database":"chargemap_test",
+            "port":5432
+        }
+}

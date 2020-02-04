@@ -1,0 +1,6 @@
+.idea/*
+.vscode/*
+mysrc/__pycache__/*
+mysrc/IO/__pycache__/*
+test/__pycache__/*
+test/IO/__pycache__/*
