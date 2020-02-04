@@ -7,7 +7,7 @@ pip  
 
 pipenv  
     
-komputer powinien mieć połączenie z bazą danych skonfigurowaną odpowiednio jak w pliku konfiguracyjnym "config.json". Plik można dostosowac do własnych potrzeb i możliwości.
+- komputer powinien mieć połączenie z bazą danych skonfigurowaną odpowiednio jak w pliku konfiguracyjnym "config.json". Plik można dostosowac do własnych potrzeb i możliwości.
 # Będąc w katalogu chargeMap: 
 -    w celu instalacji należy wywołać wywołać komendę "pipenv install" 
 -    w celu uruchomienia nalezy wywołać komendę "pipenv run python mysrc/app.py"
